@@ -33,15 +33,6 @@ Cloud droplet spectra are grouped based on **NDF thresholds** (e.g., low octile,
 
 ---
 
-## 🚀 Getting Started
-
-To run the notebooks and replicate the analysis:
-
-```bash
-git clone https://github.com/eminfE/ACE1-cloud-ML-analysis.git
-cd ACE1-cloud-ML-analysis
-pip install -r requirements.txt
-
 ## Credits
 
 This project is part of a PhD research conducted by **Fatma Emin** at the University of Nevada, Reno.  
